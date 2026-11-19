@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mailkite/server/main/brand-assets/logo-email.png" width="72" alt="MailKite">
-</p>
-
 # MailKite
 
 **Receive email as a webhook. Send with one API.**
